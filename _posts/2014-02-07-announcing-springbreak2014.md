@@ -6,7 +6,7 @@ author: Victoria Servetas
 categories: racing spring-break
 ---
 
-<img src="/img/posts/spb-2014-announce.jpg" alt="2013 Lindenwood Road Race" />
+<img src="/img/posts/Team Pic 2018.jpg" alt="2013 Lindenwood Road Race" />
 
 The 2019 Spring Break location is still being decided. A recap of the 2018 Spring Break trip gives a better look at what Spring Break Training Camp will unfold. 
 
