@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall"
-date: 10/23/18
+date: 2018-10-23
 author: Servetas
 categories: 
 ---
