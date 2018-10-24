@@ -6,7 +6,7 @@ author: Victoria Servetas
 categories: racing spring-break
 ---
 
-<img src="Team Pic 2018.jpg" />
+<UMCT.github.io/Team Pic 2018.jpg " >
 
 The 2019 Spring Break location is still being decided. A recap of the 2018 Spring Break trip gives a better look at what Spring Break Training Camp will unfold. 
 
