@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Spring Break"
-date:   2018-10-23
+date:   2019-10-23
 author: Victoria Servetas
 categories: racing spring-break
 ---
 
 <UMCT.github.io/Team Pic 2018.jpg " >
 
-The 2019 Spring Break location is still being decided. A recap of the 2018 Spring Break trip gives a better look at what Spring Break Training Camp will unfold. 
+This year, we'll be heading to beautiful Boulder, Colorado for 8 days of training in the stunning Rocky Mountains. The trip will finish off with the Louisville Crit, a non-collegiate race in Louisville that will be sure to have big, competitive fields.
 
 Last season the UMCT team rolled out to Boulder, Colorado for long miles, long climbs and high elevation. The average day at the training camp included an morning skills clinic, an afternoon ride and an evening adventure in Boulder. After racking in the miles and elevation the team travelled north to Fort Collins, Colorado and raced against Colorado teams. 
 
